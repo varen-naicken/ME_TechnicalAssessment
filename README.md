@@ -25,7 +25,7 @@ MatchingEngineAutomation/
 │   ├── HomePage.cs                    # header + Solutions flyout
 │   └── DistributionProcessingPage.cs  # "All-in-one solution for scale" section
 └── Tests/
-    ├── TestBase.cs                    # ChromeDriver setup/teardown, failure screenshots
+    ├── TestBase.cs                    # ChromeDriver setup/teardown
     └── SolutionsNavigationTests.cs    # end-to-end test case
 ```
 
